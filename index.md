@@ -45,6 +45,7 @@
 		color:#00008B;
 		text-align: center;
 		margin: 0;
+		font-size: 1em;
 	}
 	
 	div a {
